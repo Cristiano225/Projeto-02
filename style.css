@@ -8,12 +8,6 @@ body {
   min-height: 100vh;
 }
 
-.page {
-  width: 1000px;
-  margin: 0 auto;
-  padding-top: 65px;
-}
-
 nav {
   display: flex;
   justify-content: space-between;
@@ -43,6 +37,12 @@ ul li a {
 ul li a:hover {
   font-weight: bold;
   opacity: 1;
+}
+
+.page {
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 65px;
 }
 
 h1,
@@ -101,8 +101,8 @@ button:hover {
 }
 
 footer {
-  width: 592px;
-  height: 28px;
+  font-size: 14px;
+  line-height: 28px;
 
   text-align: center;
 
