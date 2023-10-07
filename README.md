@@ -1,4 +1,4 @@
-# Treine.me
+# Móveis customizados
 
 Terceiro projeto do curso Explorer da Rocketseat
 
