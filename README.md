@@ -1,6 +1,6 @@
-# Móveis customizados
+Treine me
 
-Terceiro projeto do curso Explorer da Rocketseat
+projeto do curso Explorer da Rocketseat
 
 - Tecnologias utilizadas:
     - HTML
